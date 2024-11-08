@@ -1,0 +1,113 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Boarding.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        .menu-title {
+            background-color: #FFFBD6;
+            color: #990000;
+            font-weight: bold;
+        }
+        .submenu {
+            margin-left: 20px; 
+        }
+        .menu-item {
+            margin-bottom: 10px; 
+        }
+        .container-fluid {
+            height: 100vh; 
+            
+        }
+        img{
+            width:100%;
+        }
+        
+        
+        .auto-style1 {
+            width: 1299px;
+        }
+        
+        
+    </style>
+    
+    
+    
+</head>
+<body>
+   <form runat="server">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- Left Menu -->
+                <div class="col-md-3">
+                    <h2 class="auto-style1" style="text-align: left">Menu<br />
+                        <a href="Home.aspx" style="color: #000000; font-size: large">Home</a></h2>   
+                      
+                    <ul class="list-group">
+                        <li class="list-group-item menu-title" style="text-align: left">Masters</li>
+                        <ul class="list-group submenu">
+                            <li class="list-group-item menu-item" style="text-align: left">
+                                <a href="Department.aspx">Department Master</a>
+                                
+                            </li>
+                            <li class="list-group-item menu-item" style="text-align: left;">
+                                <a href="Designation.aspx">Designations Master</a>
+                                
+                            </li>
+                        </ul>
+                        <li class="list-group-item menu-title mt-4" style="text-align: left">Transactions</li>
+                        <ul class="list-group submenu">
+                            <li class="list-group-item menu-item" style="text-align: left">
+                                <a href="MRF.aspx" style="text-align: left">MRF</a>
+                            </li>
+                        </ul>
+                          <ul class="list-group submenu">
+                            <li class="list-group-item menu-item" style="text-align: left">
+                                <a href="UploadResume.aspx" style="text-align: left">UploadResume </a>
+                            </li>
+                        </ul>
+                          <ul class="list-group submenu">
+                                <li class="list-group-item menu-item" style="text-align: left">
+                                    <a href="Resumesearch.aspx" style="text-align: left">ResumeSearch </a>
+                                </li>
+                            </ul>
+                          <ul class="list-group submenu">
+                            <li class="list-group-item menu-item" style="text-align: left">
+                                <a href="ManageResumes.aspx" style="text-align: left">ManageResumes </a>
+                            </li>
+                        </ul>
+                          <ul class="list-group submenu">
+                                <li class="list-group-item menu-item" style="text-align: left">
+                                    <a href="Compare Resumes.aspx" style="text-align: left">Compare Resumes </a>
+                                </li>
+                            </ul>
+                    </ul>
+                </div>
+                
+
+                <!-- Right Content -->
+                <div class="col-md-9" >
+                    
+                    <h1 style="color: #000000; text-align: center;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recruitment Module&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   
+                       <a href="Home.aspx" style="color: #000000; font-size: large">Home</a></h1>
+                        <div>
+                            <p style="margin-left: 840px">
+                            <strong style="font-size: large; text-align: right; color: #003300;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome   
+                            <asp:Label ID="Label1" runat="server"></asp:Label> 
+                            </strong>  
+                            </p>  
+                        </div> 
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                        
+                </div>
+                
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Boarding\\Boarding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|c:\\boarding\\boarding\\boarding\\manageresumes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|solutionrelative:boarding\\manageresumes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|C:\\Boarding\\Boarding\\boarding\\resumesearch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|solutionrelative:boarding\\resumesearch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7535809-307F-48F9-A268-E7F6A49598BE}|DataAccess\\DataAccess.csproj|C:\\Boarding\\Boarding\\dataaccess\\commonda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7535809-307F-48F9-A268-E7F6A49598BE}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\commonda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC3BFBB-EADC-4F8C-BF5D-BE5262CE893D}|BusinessLogic\\BusinessLogic.csproj|C:\\Boarding\\Boarding\\businesslogic\\commonbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC3BFBB-EADC-4F8C-BF5D-BE5262CE893D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\commonbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|C:\\Boarding\\Boarding\\boarding\\manageresumes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|solutionrelative:boarding\\manageresumes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|C:\\Boarding\\Boarding\\boarding\\viewpendinglist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|solutionrelative:boarding\\viewpendinglist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|C:\\Boarding\\Boarding\\boarding\\viewpendinglist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|solutionrelative:boarding\\viewpendinglist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|C:\\Boarding\\Boarding\\boarding\\resumesearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{984A9F44-F1FD-4C89-B3F5-B2D8195AD9D0}|Boarding\\Boarding.csproj|solutionrelative:boarding\\resumesearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resumesearch.aspx.cs",
+              "DocumentMoniker": "C:\\Boarding\\Boarding\\Boarding\\Resumesearch.aspx.cs",
+              "RelativeDocumentMoniker": "Boarding\\Resumesearch.aspx.cs",
+              "ToolTip": "C:\\Boarding\\Boarding\\Boarding\\Resumesearch.aspx.cs",
+              "RelativeToolTip": "Boarding\\Resumesearch.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:48:58.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageResumes.aspx",
+              "DocumentMoniker": "C:\\Boarding\\Boarding\\Boarding\\ManageResumes.aspx",
+              "RelativeDocumentMoniker": "Boarding\\ManageResumes.aspx",
+              "ToolTip": "C:\\Boarding\\Boarding\\Boarding\\ManageResumes.aspx",
+              "RelativeToolTip": "Boarding\\ManageResumes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-05T11:51:23.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageResumes.aspx.cs",
+              "DocumentMoniker": "C:\\Boarding\\Boarding\\Boarding\\ManageResumes.aspx.cs",
+              "RelativeDocumentMoniker": "Boarding\\ManageResumes.aspx.cs",
+              "ToolTip": "C:\\Boarding\\Boarding\\Boarding\\ManageResumes.aspx.cs",
+              "RelativeToolTip": "Boarding\\ManageResumes.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:10:19.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewPendingList.aspx",
+              "DocumentMoniker": "C:\\Boarding\\Boarding\\Boarding\\ViewPendingList.aspx",
+              "RelativeDocumentMoniker": "Boarding\\ViewPendingList.aspx",
+              "ToolTip": "C:\\Boarding\\Boarding\\Boarding\\ViewPendingList.aspx",
+              "RelativeToolTip": "Boarding\\ViewPendingList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-08T06:20:06.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewPendingList.aspx.cs",
+              "DocumentMoniker": "C:\\Boarding\\Boarding\\Boarding\\ViewPendingList.aspx.cs",
+              "RelativeDocumentMoniker": "Boarding\\ViewPendingList.aspx.cs",
+              "ToolTip": "C:\\Boarding\\Boarding\\Boarding\\ViewPendingList.aspx.cs",
+              "RelativeToolTip": "Boarding\\ViewPendingList.aspx.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAYwHYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:23:11.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resumesearch.aspx",
+              "DocumentMoniker": "C:\\Boarding\\Boarding\\Boarding\\Resumesearch.aspx",
+              "RelativeDocumentMoniker": "Boarding\\Resumesearch.aspx",
+              "ToolTip": "C:\\Boarding\\Boarding\\Boarding\\Resumesearch.aspx",
+              "RelativeToolTip": "Boarding\\Resumesearch.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-05T11:48:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonBL.cs",
+              "DocumentMoniker": "C:\\Boarding\\Boarding\\BusinessLogic\\CommonBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\CommonBL.cs",
+              "ToolTip": "C:\\Boarding\\Boarding\\BusinessLogic\\CommonBL.cs",
+              "RelativeToolTip": "BusinessLogic\\CommonBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:19:44.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonDA.cs",
+              "DocumentMoniker": "C:\\Boarding\\Boarding\\DataAccess\\CommonDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CommonDA.cs",
+              "ToolTip": "C:\\Boarding\\Boarding\\DataAccess\\CommonDA.cs",
+              "RelativeToolTip": "DataAccess\\CommonDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADADAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:11:58.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
